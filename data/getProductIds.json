@@ -1,0 +1,107 @@
+[
+    {
+        "pid": "1",
+        "name": "Tomato sauce",
+        "price": "1.99",
+        "currency": "EUR",
+        "stock": "0"
+    },
+    {
+        "pid": "2",
+        "name": "Perfume",
+        "price": "61.99",
+        "currency": "EUR",
+        "stock": "5"
+    },
+    {
+        "pid": "3",
+        "name": "Eggs",
+        "price": "1.09",
+        "currency": "EUR",
+        "stock": "234"
+    },
+    {
+        "pid": "4",
+        "name": "Candies",
+        "price": "0.39",
+        "currency": "EUR",
+        "stock": "3244"
+    },
+    {
+        "pid": "5",
+        "name": "Olive oil",
+        "price": "3.99",
+        "currency": "EUR",
+        "stock": "175"
+    },
+    {
+        "pid": "6",
+        "name": "Canned Goods",
+        "price": "0.79",
+        "currency": "EUR",
+        "stock": "476"
+    },
+    {
+        "pid": "7",
+        "name": "Toothpaste",
+        "price": "2.99",
+        "currency": "EUR",
+        "stock": "213"
+    },
+    {
+        "pid": "8",
+        "name": "Potatoes",
+        "price": "0.99",
+        "currency": "EUR",
+        "stock": "679"
+    },
+    {
+        "pid": "9",
+        "name": "Detergents",
+        "price": "4.99",
+        "currency": "EUR",
+        "stock": "34"
+    },
+    {
+        "pid": "10",
+        "name": "Diapers",
+        "price": "6.99",
+        "currency": "EUR",
+        "stock": "311"
+    },
+    {
+        "pid": "11",
+        "name": "Salmon",
+        "price": "11.49",
+        "currency": "EUR",
+        "stock": "23"
+    },
+    {
+        "pid": "12",
+        "name": "Beer",
+        "price": "8.99",
+        "currency": "EUR",
+        "stock": "472"
+    },
+    {
+        "pid": "13",
+        "name": "Beef",
+        "price": "3.99",
+        "currency": "EUR",
+        "stock": "187"
+    },
+    {
+        "pid": "14",
+        "name": "Mustard",
+        "price": "1.99",
+        "currency": "EUR",
+        "stock": "20"
+    },
+    {
+        "pid": "15",
+        "name": "Milk",
+        "price": "1.20",
+        "currency": "EUR",
+        "stock": "200"
+    }
+]
