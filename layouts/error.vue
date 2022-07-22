@@ -46,9 +46,6 @@ export default {
       otherError: 'An error occurred',
     }
   },
-  mounted() {
-console.log('err', this.error);
-  },
   head() {
     const title =
       this.error.statusCode === '404' ? this.pageNotFound : this.otherError
